@@ -1,0 +1,5 @@
+
+.main{
+    max-width:500px;
+    float:left;   /* IF I REMOVE THIS LINE, SLIDER IS WORKING CORRECTLY - RESPONSIVE */
+}
